@@ -1,0 +1,193 @@
+{
+	"label": "Coat Type/Texture/Pattern",
+	"objects": [
+		{
+			"key": 1,
+			"value": "Short-haired"
+		},
+		{
+			"key": 2,
+			"value": "Long-haired"
+		},
+		{
+			"key": 3,
+			"value": "Wiry"
+		},
+		{
+			"key": 4,
+			"value": "Smooth"
+		},
+		{
+			"key": 5,
+			"value": "Rough"
+		},
+		{
+			"key": 6,
+			"value": "Curly"
+		},
+		{
+			"key": 7,
+			"value": "Double coat"
+		},
+		{
+			"key": 8,
+			"value": "Single coat"
+		},
+        {
+			"key": 9,
+			"value": "Hairless"
+		},
+        {
+            "key": 10,
+            "value": "Downy"
+        },
+        {
+            "key": 11,
+            "value": "Silky"
+        },
+        {
+            "key": 12,
+            "value": "Wooly"
+        },
+        {
+            "key": 13,
+            "value": "Furred"
+        },
+        {
+            "key": 14,
+            "value": "Scaly"
+        },
+        {
+            "key": 15,
+            "value": "Feathered"
+        },
+        {
+            "key": 16,
+            "value": "Plush"
+        },
+        {
+            "key": 17,
+            "value": "Corded"
+        },
+        {
+            "key": 18,
+            "value": "Dense"
+        },
+        {
+            "key": 19,
+            "value": "Sparse"
+        },
+        {
+            "key": 20,
+            "value": "Thick"
+        },
+		{
+			"key": 21,
+			"value": "Thin"
+		},
+        {
+            "key": 22,
+            "value": "Glossy"
+        },
+        {
+            "key": 23,
+            "value": "Matted"
+        },
+        {
+            "key": 24,
+            "value": "Ticked"
+        },
+        {
+            "key": 25,
+            "value": "Pointed"
+        },
+        {
+            "key": 26,
+            "value": "Bicolor"
+        },
+        {
+            "key": 27,
+            "value": "Tricolor"
+        },
+        {
+            "key": 28,
+            "value": "Merle"
+        },
+        {
+            "key": 29,
+            "value": "Brindle"
+        },
+        {
+            "key": 30,
+            "value": "Spotted"
+        },
+        {
+            "key": 31,
+            "value": "Striped"
+        },
+        {
+            "key": 32,
+            "value": "Tabby (various patterns)"
+        },
+        {
+            "key": 33,
+            "value": "Tortoiseshell"
+        },
+        {
+            "key": 34,
+            "value": "Calico"
+        },
+        {
+            "key": 35,
+            "value": "Satin"
+        },
+        {
+            "key": 36,
+            "value": "Rex"
+        },
+        {
+            "key": 37,
+            "value": "Frizzie"
+        },
+        {
+            "key": 38,
+            "value": "Velvet"
+        },
+        {
+            "key": 39,
+            "value": "Mosaic"
+        },
+        {
+            "key": 40,
+            "value": "Angora"
+        },
+        {
+            "key": 41,
+            "value": "Semi-long"
+        },
+        {
+            "key": 42,
+            "value": "Broken coat"
+        },
+        {
+            "key": 43,
+            "value": "Topknot"
+        },
+        {
+            "key": 44,
+            "value": "Crested"
+        },
+        {
+            "key": 45,
+            "value": "Spiky"
+        },
+        {
+            "key": 46,
+            "value": "Water-resistant"
+        },
+        {
+            "key": 47,
+            "value": "Hypoallergenic (relatively)"
+        }
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"label": "Species",
+	"objects": [
+		{
+			"key": 1,
+			"value": "Dog"
+		},
+		{
+			"key": 2,
+			"value": "Cat"
+		},
+		{
+			"key": 3,
+			"value": "Fish"
+		},
+		{
+			"key": 4,
+			"value": "Bird"
+		},
+		{
+			"key": 5,
+			"value": "Hamster"
+		},
+		{
+			"key": 6,
+			"value": "Guinea Pig"
+		},
+		{
+			"key": 7,
+			"value": "Rabbit"
+		},
+		{
+			"key": 8,
+			"value": "Reptile" 
+		},
+        {
+			"key": 9,
+			"value": "Ferret"
+		},
+        {
+            "key": 10,
+            "value": "Snake"
+        },
+        {
+            "key": 11,
+            "value": "Lizard"
+        },
+        {
+            "key": 12,
+            "value": "Turtle"
+        },
+        {
+            "key": 13,
+            "value": "Amphibian"
+        },
+        {
+            "key": 14,
+            "value": "Mouse"
+        },
+        {
+            "key": 15,
+            "value": "Rat"
+        },
+        {
+            "key": 16,
+            "value": "Gerbil"
+        },
+        {
+            "key": 17,
+            "value": "Chinchilla"
+        },
+        {
+            "key": 18,
+            "value": "Hedgehog"
+        },
+        {
+            "key": 19,
+            "value": "Chicken"
+        },
+        {
+            "key": 20,
+            "value": "Insect"
+        },
+		{
+			"key": 21,  
+			"value": "Other" 
+		},
+        {
+            "key": 22,
+            "value": "Tortoise"
+        },
+        {
+            "key": 23,
+            "value": "Arachnid"
+        },
+        {
+            "key": 24,
+            "value": "Horse"
+        }
+	]
+}

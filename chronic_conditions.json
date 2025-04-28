@@ -1,0 +1,209 @@
+{
+	"label": "Chronic Health Conditions",
+	"objects": [
+		{
+			"key": 1,
+			"value": "Arthritis"
+		},
+		{
+			"key": 2,
+			"value": "Diabetes Mellitus"
+		},
+		{
+			"key": 3,
+			"value": "Kidney Disease (Chronic Renal Failure)"
+		},
+		{
+			"key": 4,
+			"value": "Heart Disease (various types)"
+		},
+		{
+			"key": 5,
+			"value": "Cancer (various forms)"
+		},
+		{
+			"key": 6,
+			"value": "Hypothyroidism"
+		},
+		{
+			"key": 7,
+			"value": "Hyperthyroidism"
+		},
+		{
+			"key": 8,
+			"value": "Cushing's Disease (Hyperadrenocorticism)"
+		},
+        {
+			"key": 9,
+			"value": "Addison's Disease (Hypoadrenocorticism)"
+		},
+        {
+            "key": 10,
+            "value": "Inflammatory Bowel Disease (IBD)"
+        },
+        {
+            "key": 11,
+            "value": "Epilepsy"
+        },
+        {
+            "key": 12,
+            "value": "Allergies (skin, food, environmental)"
+        },
+        {
+            "key": 13,
+            "value": "Asthma (Feline Asthma)"
+        },
+        {
+            "key": 14,
+            "value": "Chronic Obstructive Pulmonary Disease (COPD) (in some species)"
+        },
+        {
+            "key": 15,
+            "value": "Glaucoma"
+        },
+        {
+            "key": 16,
+            "value": "Cataracts"
+        },
+        {
+            "key": 17,
+            "value": "Dental Disease (periodontal disease)"
+        },
+        {
+            "key": 18,
+            "value": "Obesity"
+        },
+        {
+            "key": 19,
+            "value": "Chronic Pain"
+        },
+        {
+            "key": 20,
+            "value": "Degenerative Myelopathy"
+        },
+		{
+			"key": 21,
+			"value": "Hip Dysplasia"
+		},
+        {
+            "key": 22,
+            "value": "Elbow Dysplasia"
+        },
+        {
+            "key": 23,
+            "value": "Luxating Patella"
+        },
+        {
+            "key": 24,
+            "value": "Cognitive Dysfunction Syndrome (CDS)"
+        },
+        {
+            "key": 25,
+            "value": "Autoimmune Diseases (e.g., Lupus, Immune-Mediated Hemolytic Anemia)"
+        },
+        {
+            "key": 26,
+            "value": "Pancreatitis (chronic form)"
+        },
+        {
+            "key": 27,
+            "value": "Liver Disease (chronic)"
+        },
+        {
+            "key": 28,
+            "value": "Inflammatory Conditions (e.g., chronic cystitis)"
+        },
+        {
+            "key": 29,
+            "value": "Endocrine Disorders (other than thyroid, adrenal)"
+        },
+        {
+            "key": 30,
+            "value": "Neurological Disorders (other than epilepsy)"
+        },
+        {
+            "key": 31,
+            "value": "Chronic Infections (e.g., fungal)"
+        },
+        {
+            "key": 32,
+            "value": "Spondylosis"
+        },
+        {
+            "key": 33,
+            "value": "Intervertebral Disc Disease (IVDD)"
+        },
+        {
+            "key": 34,
+            "value": "Chronic Ear Infections"
+        },
+        {
+            "key": 35,
+            "value": "Chronic Skin Conditions"
+        },
+        {
+            "key": 36,
+            "value": "Behavioral Disorders (if long-lasting and impacting quality of life)"
+        },
+        {
+            "key": 37,
+            "value": "Progressive Retinal Atrophy (PRA)"
+        },
+        {
+            "key": 38,
+            "value": "Keratoconjunctivitis Sicca (Dry Eye)"
+        },
+        {
+            "key": 39,
+            "value": "Chronic Vomiting or Diarrhea"
+        },
+        {
+            "key": 40,
+            "value": "Megacolon (in cats)"
+        },
+        {
+            "key": 41,
+            "value": "Tracheal Collapse"
+        },
+        {
+            "key": 42,
+            "value": "Laryngeal Paralysis"
+        },
+        {
+            "key": 43,
+            "value": "Portosystemic Shunt"
+        },
+        {
+            "key": 44,
+            "value": "Hemophilia and other bleeding disorders"
+        },
+        {
+            "key": 45,
+            "value": "Cystic Fibrosis (in some species)"
+        },
+        {
+            "key": 46,
+            "value": "Muscular Dystrophy (in some species)"
+        },
+        {
+            "key": 47,
+            "value": "Amyloidosis"
+        },
+        {
+            "key": 48,
+            "value": "Chronic Rhinitis/Sinusitis"
+        },
+        {
+            "key": 49,
+            "value": "Inflammatory Airway Disease (in horses)"
+        },
+        {
+            "key": 50,
+            "value": "Laminitis (in horses)"
+        },
+        {
+            "key": 51,
+            "value": "Equine Cushing's Disease (PPID) (in horses)"
+        }
+	]
+}
