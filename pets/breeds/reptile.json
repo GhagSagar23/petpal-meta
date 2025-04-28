@@ -1,0 +1,202 @@
+{
+    "label": "Reptile & Amphibian Species",
+    "objects": [
+      {
+        "key": 1,
+        "value": "Bearded Dragon (various color morphs)"
+      },
+      {
+        "key": 2,
+        "value": "Leopard Gecko (various morphs)"
+      },
+      {
+        "key": 3,
+        "value": "Crested Gecko (various morphs and patterns)"
+      },
+      {
+        "key": 4,
+        "value": "Corn Snake (various morphs)"
+      },
+      {
+        "key": 5,
+        "value": "Ball Python (various morphs)"
+      },
+      {
+        "key": 6,
+        "value": "King Snake (various species)"
+      },
+      {
+        "key": 7,
+        "value": "Milk Snake (various species)"
+      },
+      {
+        "key": 8,
+        "value": "Rosy Boa"
+      },
+      {
+        "key": 9,
+        "value": "Garter Snake (various species)"
+      },
+      {
+        "key": 10,
+        "value": "Hognose Snake (Western Hognose)"
+      },
+      {
+        "key": 11,
+        "value": "Carpet Python (various locales and morphs)"
+      },
+      {
+        "key": 12,
+        "value": "Boa Constrictor (various localities and morphs)"
+      },
+      {
+        "key": 13,
+        "value": "Royal Python (same as Ball Python)"
+      },
+      {
+        "key": 14,
+        "value": "Kenyan Sand Boa"
+      },
+      {
+        "key": 15,
+        "value": "Children's Python"
+      },
+      {
+        "key": 16,
+        "value": "Antaresia species (Spotted Python, Stimson's Python)"
+      },
+      {
+        "key": 17,
+        "value": "Day Gecko (various species)"
+      },
+      {
+        "key": 18,
+        "value": "Tokay Gecko"
+      },
+      {
+        "key": 19,
+        "value": "Blue-Tongued Skink (various species)"
+      },
+      {
+        "key": 20,
+        "value": "Uromastyx (various species)"
+      },
+      {
+        "key": 21,
+        "value": "Leopard Lizard"
+      },
+      {
+        "key": 22,
+        "value": "Collared Lizard"
+      },
+      {
+        "key": 23,
+        "value": "Anole (Green Anole)"
+      },
+      {
+        "key": 24,
+        "value": "Skink (various species)"
+      },
+      {
+        "key": 25,
+        "value": "Tegus (various species)"
+      },
+      {
+        "key": 26,
+        "value": "Chameleon (various species)"
+      },
+      {
+        "key": 27,
+        "value": "Chinese Water Dragon"
+      },
+      {
+        "key": 28,
+        "value": "Frilled Dragon"
+      },
+      {
+        "key": 29,
+        "value": "Plated Lizard (various species)"
+      },
+      {
+        "key": 30,
+        "value": "Red-Eared Slider"
+      },
+      {
+        "key": 31,
+        "value": "Painted Turtle (various subspecies)"
+      },
+      {
+        "key": 32,
+        "value": "Musk Turtle (various species)"
+      },
+      {
+        "key": 33,
+        "value": "Mud Turtle (various species)"
+      },
+      {
+        "key": 34,
+        "value": "Russian Tortoise (Horsfield's Tortoise)"
+      },
+      {
+        "key": 35,
+        "value": "Hermann's Tortoise (various subspecies)"
+      },
+      {
+        "key": 36,
+        "value": "Greek Tortoise (various subspecies)"
+      },
+      {
+        "key": 37,
+        "value": "Leopard Tortoise"
+      },
+      {
+        "key": 38,
+        "value": "Sulcata Tortoise (African Spurred Tortoise)"
+      },
+      {
+        "key": 39,
+        "value": "Red-Footed Tortoise"
+      },
+      {
+        "key": 40,
+        "value": "Yellow-Footed Tortoise"
+      },
+      {
+        "key": 41,
+        "value": "Indian Star Tortoise"
+      },
+      {
+        "key": 42,
+        "value": "Marginated Tortoise"
+      },
+      {
+        "key": 43,
+        "value": "Box Turtle (various species)"
+      },
+      {
+        "key": 44,
+        "value": "Snapping Turtle (common and alligator - require specialized care and may have restrictions)"
+      },
+      {
+        "key": 45,
+        "value": "Softshell Turtle (various species - require specialized care)"
+      },
+      {
+        "key": 46,
+        "value": "Monitor Lizard (various species like Ackie, Leopard, Savannah - require significant space and experience)"
+      },
+      {
+        "key": 47,
+        "value": "Crocodile (various species - require extensive and specialized care, often illegal or highly regulated)"
+      },
+      {
+        "key": 48,
+        "value": "Alligator (require extensive and specialized care, often illegal or highly regulated)"
+      },
+      {
+        "key": 49,
+        "value": "Tuatara (highly regulated and not typically kept as pets)"
+      }
+    ]
+  }
+  
