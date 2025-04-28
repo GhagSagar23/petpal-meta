@@ -1,0 +1,117 @@
+{
+    "label": "Pet Exercise & Activity",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Daily Walks"
+        },
+        {
+            "key": 2,
+            "value": "Running"
+        },
+        {
+            "key": 3,
+            "value": "Playing Fetch"
+        },
+        {
+            "key": 4,
+            "value": "Interactive Play Sessions (e.g., with toys, lasers)"
+        },
+        {
+            "key": 5,
+            "value": "Structured Playtime"
+        },
+        {
+            "key": 6,
+            "value": "Free Play in a Safe Area"
+        },
+        {
+            "key": 7,
+            "value": "Mental Stimulation (puzzle toys, training)"
+        },
+        {
+            "key": 8,
+            "value": "Digging Opportunities (for some species)"
+        },
+        {
+            "key": 9,
+            "value": "Climbing Opportunities (for some species)"
+        },
+        {
+            "key": 10,
+            "value": "Swimming"
+        },
+        {
+            "key": 11,
+            "value": "Flying (for birds in a safe environment)"
+        },
+        {
+            "key": 12,
+            "value": "Burrowing Opportunities (for some small mammals)"
+        },
+        {
+            "key": 13,
+            "value": "Social Play with Other Animals"
+        },
+        {
+            "key": 14,
+            "value": "Agility Training"
+        },
+        {
+            "key": 15,
+            "value": "Treadmill or Exercise Wheel (for some small mammals)"
+        },
+        {
+            "key": 16,
+            "value": "Environmental Enrichment that Encourages Movement"
+        },
+        {
+            "key": 17,
+            "value": "Species-Specific Behaviors (e.g., scent marking walks for dogs)"
+        },
+        {
+            "key": 18,
+            "value": "Duration of Exercise (varies by species, age, and breed)"
+        },
+        {
+            "key": 19,
+            "value": "Intensity of Exercise (varies by species, age, and breed)"
+        },
+        {
+            "key": 20,
+            "value": "Frequency of Exercise (daily, multiple times a day, etc.)"
+        },
+        {
+            "key": 21,
+            "value": "Supervised Exercise"
+        },
+        {
+            "key": 22,
+            "value": "Off-Leash Exercise in Safe Areas"
+        },
+        {
+            "key": 23,
+            "value": "Indoor Exercise Options"
+        },
+        {
+            "key": 24,
+            "value": "Providing Toys that Encourage Movement"
+        },
+        {
+            "key": 25,
+            "value": "Training that Incorporates Physical Activity"
+        },
+        {
+            "key": 26,
+            "value": "Adjusting Exercise to Weather Conditions"
+        },
+        {
+            "key": 27,
+            "value": "Exercise Appropriate for Life Stage (puppy, adult, senior)"
+        },
+        {
+            "key": 28,
+            "value": "Exercise Considerations for Health Conditions"
+        }
+    ]
+}

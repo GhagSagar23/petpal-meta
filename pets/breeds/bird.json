@@ -1,0 +1,133 @@
+{
+    "label": "Bird Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Budgerigar (Parakeet)"
+        },
+        {
+            "key": 2,
+            "value": "Cockatiel"
+        },
+        {
+            "key": 3,
+            "value": "Lovebird (various species like Peach-faced, Fischer's, Masked)"
+        },
+        {
+            "key": 4,
+            "value": "Parrotlet (various species)"
+        },
+        {
+            "key": 5,
+            "value": "Conure (various species like Green-cheeked, Sun, Jenday)"
+        },
+        {
+            "key": 6,
+            "value": "Cockatoo (various species like Goffin's, Umbrella, Galah)"
+        },
+        {
+            "key": 7,
+            "value": "African Grey Parrot"
+        },
+        {
+            "key": 8,
+            "value": "Amazon Parrot (various species)"
+        },
+        {
+            "key": 9,
+            "value": "Macaw (various species like Blue and Gold, Scarlet, Green-winged)"
+        },
+        {
+            "key": 10,
+            "value": "Quaker Parrot (Monk Parakeet)"
+        },
+        {
+            "key": 11,
+            "value": "Caique (various species like Black-headed, White-bellied)"
+        },
+        {
+            "key": 12,
+            "value": "Finch (various species like Zebra, Society, Gouldian)"
+        },
+        {
+            "key": 13,
+            "value": "Canary"
+        },
+        {
+            "key": 14,
+            "value": "Dove (various species like Diamond, Ringneck)"
+        },
+        {
+            "key": 15,
+            "value": "Pionus Parrot (various species)"
+        },
+        {
+            "key": 16,
+            "value": "Eclectus Parrot"
+        },
+        {
+            "key": 17,
+            "value": "Senegal Parrot"
+        },
+        {
+            "key": 18,
+            "value": "Meyer's Parrot"
+        },
+        {
+            "key": 19,
+            "value": "Bourke's Parakeet"
+        },
+        {
+            "key": 20,
+            "value": "Princess Parrot (Alexandra's Parakeet)"
+        },
+        {
+            "key": 21,
+            "value": "Indian Ringneck Parakeet"
+        },
+        {
+            "key": 22,
+            "value": "Plum-headed Parakeet"
+        },
+        {
+            "key": 23,
+            "value": "Rosella (various species)"
+        },
+        {
+            "key": 24,
+            "value": "Lory and Lorikeet (various species)"
+        },
+        {
+            "key": 25,
+            "value": "Hahn's Macaw"
+        },
+        {
+            "key": 26,
+            "value": "Severe Macaw"
+        },
+        {
+            "key": 27,
+            "value": "Spectacled Parrotlet"
+        },
+        {
+            "key": 28,
+            "value": "Red-rumped Parrot"
+        },
+        {
+            "key": 29,
+            "value": "Cockatiel mutations (e.g., Pearl, Pied, Lutino)"
+        },
+        {
+            "key": 30,
+            "value": "Budgerigar mutations (e.g., English Budgie, Fancy Budgie)"
+        },
+        {
+            "key": 31,
+            "value": "King Quail (Button Quail) - often kept as pets in aviaries"
+        },
+        {
+            "key": 32,
+            "value": "Java Sparrow"
+        }
+    ]
+}

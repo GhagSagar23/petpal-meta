@@ -1,0 +1,265 @@
+{
+    "label": "Pet Markings",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Solid"
+        },
+        {
+            "key": 2,
+            "value": "Tabby (various patterns: Classic, Mackerel, Spotted, Ticked)"
+        },
+        {
+            "key": 3,
+            "value": "Tortoiseshell (Tortie)"
+        },
+        {
+            "key": 4,
+            "value": "Calico"
+        },
+        {
+            "key": 5,
+            "value": "Bicolor (Particolor)"
+        },
+        {
+            "key": 6,
+            "value": "Tricolor"
+        },
+        {
+            "key": 7,
+            "value": "Pointed (Siamese, Himalayan patterns)"
+        },
+        {
+            "key": 8,
+            "value": "Merle"
+        },
+        {
+            "key": 9,
+            "value": "Harlequin"
+        },
+        {
+            "key": 10,
+            "value": "Brindle"
+        },
+        {
+            "key": 11,
+            "value": "Spotted"
+        },
+        {
+            "key": 12,
+            "value": "Striped"
+        },
+        {
+            "key": 13,
+            "value": "Ticked"
+        },
+        {
+            "key": 14,
+            "value": "Roan"
+        },
+        {
+            "key": 15,
+            "value": "Sable"
+        },
+        {
+            "key": 16,
+            "value": "Colorpoint"
+        },
+        {
+            "key": 17,
+            "value": "Dilute"
+        },
+        {
+            "key": 18,
+            "value": "Piebald"
+        },
+        {
+            "key": 19,
+            "value": "Tuxedo"
+        },
+        {
+            "key": 20,
+            "value": "Masked"
+        },
+        {
+            "key": 21,
+            "value": "Blazed"
+        },
+        {
+            "key": 22,
+            "value": "Hooded"
+        },
+        {
+            "key": 23,
+            "value": "Berkshire"
+        },
+        {
+            "key": 24,
+            "value": "Irish"
+        },
+        {
+            "key": 25,
+            "value": "Down Under"
+        },
+        {
+            "key": 26,
+            "value": "Capped"
+        },
+        {
+            "key": 27,
+            "value": "Variegated"
+        },
+        {
+            "key": 28,
+            "value": "Saddle"
+        },
+        {
+            "key": 29,
+            "value": "Agouti"
+        },
+        {
+            "key": 30,
+            "value": "Self"
+        },
+        {
+            "key": 31,
+            "value": "Tan"
+        },
+        {
+            "key": 32,
+            "value": "Fox"
+        },
+        {
+            "key": 33,
+            "value": "Cream"
+        },
+        {
+            "key": 34,
+            "value": "Fawn"
+        },
+        {
+            "key": 35,
+            "value": "Lilac"
+        },
+        {
+            "key": 36,
+            "value": "Chocolate"
+        },
+        {
+            "key": 37,
+            "value": "Blue"
+        },
+        {
+            "key": 38,
+            "value": "Red"
+        },
+        {
+            "key": 39,
+            "value": "Black"
+        },
+        {
+            "key": 40,
+            "value": "White"
+        },
+        {
+            "key": 41,
+            "value": "Buff"
+        },
+        {
+            "key": 42,
+            "value": "Cinnamon"
+        },
+        {
+            "key": 43,
+            "value": "Silver"
+        },
+        {
+            "key": 44,
+            "value": "Gold"
+        },
+        {
+            "key": 45,
+            "value": "Champagne"
+        },
+        {
+            "key": 46,
+            "value": "Seal"
+        },
+        {
+            "key": 47,
+            "value": "Lynx"
+        },
+        {
+            "key": 48,
+            "value": "Flame"
+        },
+        {
+            "key": 49,
+            "value": "Cream Point"
+        },
+        {
+            "key": 50,
+            "value": "Blue Point"
+        },
+        {
+            "key": 51,
+            "value": "Chocolate Point"
+        },
+        {
+            "key": 52,
+            "value": "Lilac Point"
+        },
+        {
+            "key": 53,
+            "value": "Red Point"
+        },
+        {
+            "key": 54,
+            "value": "Seal Point"
+        },
+        {
+            "key": 55,
+            "value": "Tortie Point"
+        },
+        {
+            "key": 56,
+            "value": "Torbie Point"
+        },
+        {
+            "key": 57,
+            "value": "Smoke"
+        },
+        {
+            "key": 58,
+            "value": "Shaded"
+        },
+        {
+            "key": 59,
+            "value": "Tipped"
+        },
+        {
+            "key": 60,
+            "value": "Parti-color"
+        },
+        {
+            "key": 61,
+            "value": "Dominant White"
+        },
+        {
+            "key": 62,
+            "value": "Progressive Graying"
+        },
+        {
+            "key": 63,
+            "value": "Vitiligo"
+        },
+        {
+            "key": 64,
+            "value": "Albinism"
+        },
+        {
+            "key": 65,
+            "value": "Leucism"
+        }
+    ]
+}

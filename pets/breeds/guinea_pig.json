@@ -1,0 +1,57 @@
+{
+    "label": "Guinea Pig Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "American"
+        },
+        {
+            "key": 2,
+            "value": "Peruvian"
+        },
+        {
+            "key": 3,
+            "value": "Silkie"
+        },
+        {
+            "key": 4,
+            "value": "Crested"
+        },
+        {
+            "key": 5,
+            "value": "Teddy"
+        },
+        {
+            "key": 6,
+            "value": "Rex"
+        },
+        {
+            "key": 7,
+            "value": "Abyssinian"
+        },
+        {
+            "key": 8,
+            "value": "Skinny Pig"
+        },
+        {
+            "key": 9,
+            "value": "Baldwin"
+        },
+        {
+            "key": 10,
+            "value": "Texel"
+        },
+        {
+            "key": 11,
+            "value": "Merino"
+        },
+        {
+            "key": 12,
+            "value": "Alpaca"
+        },
+        {
+            "key": 13,
+            "value": "Lunkarya"
+        }
+    ]
+}

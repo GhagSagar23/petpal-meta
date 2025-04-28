@@ -1,0 +1,69 @@
+{
+    "label": "Mouse Types/Varieties",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Fancy Mouse"
+        },
+        {
+            "key": 2,
+            "value": "Self (various colors)"
+        },
+        {
+            "key": 3,
+            "value": "Agouti"
+        },
+        {
+            "key": 4,
+            "value": "Tan (various colors)"
+        },
+        {
+            "key": 5,
+            "value": "Fox (various colors)"
+        },
+        {
+            "key": 6,
+            "value": "Pied (various colors)"
+        },
+        {
+            "key": 7,
+            "value": "Broken Marked (various colors)"
+        },
+        {
+            "key": 8,
+            "value": "Dutch (various colors)"
+        },
+        {
+            "key": 9,
+            "value": "Himalayan"
+        },
+        {
+            "key": 10,
+            "value": "Siamese"
+        },
+        {
+            "key": 11,
+            "value": "Standard coat (various colors and patterns)"
+        },
+        {
+            "key": 12,
+            "value": "Long-haired (various colors and patterns)"
+        },
+        {
+            "key": 13,
+            "value": "Satin (various colors and patterns)"
+        },
+        {
+            "key": 14,
+            "value": "Rex (various colors and patterns)"
+        },
+        {
+            "key": 15,
+            "value": "Hairless"
+        },
+        {
+            "key": 16,
+            "value": "Frizzie (various colors and patterns)"
+        }
+    ]
+}

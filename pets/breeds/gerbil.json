@@ -1,0 +1,133 @@
+{
+    "label": "Gerbil Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Agouti"
+        },
+        {
+            "key": 2,
+            "value": "Nutmeg"
+        },
+        {
+            "key": 3,
+            "value": "Honey"
+        },
+        {
+            "key": 4,
+            "value": "Red-Eyed Honey"
+        },
+        {
+            "key": 5,
+            "value": "Burmese"
+        },
+        {
+            "key": 6,
+            "value": "Siamese"
+        },
+        {
+            "key": 7,
+            "value": "Silver Nutmeg"
+        },
+        {
+            "key": 8,
+            "value": "Golden Agouti"
+        },
+        {
+            "key": 9,
+            "value": "Ruby-Eyed White"
+        },
+        {
+            "key": 10,
+            "value": "Dark-Eyed White"
+        },
+        {
+            "key": 11,
+            "value": "Pied"
+        },
+        {
+            "key": 12,
+            "value": "Spotted"
+        },
+        {
+            "key": 13,
+            "value": "Mottled"
+        },
+        {
+            "key": 14,
+            "value": "Collared"
+        },
+        {
+            "key": 15,
+            "value": "LCP (Light Color Point) Agouti"
+        },
+        {
+            "key": 16,
+            "value": "DCP (Dark Color Point) Agouti"
+        },
+        {
+            "key": 17,
+            "value": "Schimmel"
+        },
+        {
+            "key": 18,
+            "value": "Fox"
+        },
+        {
+            "key": 19,
+            "value": "Grey Agouti"
+        },
+        {
+            "key": 20,
+            "value": "Black Eyed White"
+        },
+        {
+            "key": 21,
+            "value": "Californian"
+        },
+        {
+            "key": 22,
+            "value": "Chinchilla"
+        },
+        {
+            "key": 23,
+            "value": "Argente Golden"
+        },
+        {
+            "key": 24,
+            "value": "Argente Cream"
+        },
+        {
+            "key": 25,
+            "value": "Red Fox"
+        },
+        {
+            "key": 26,
+            "value": "Polar Fox"
+        },
+        {
+            "key": 27,
+            "value": "Red Point Siamese"
+        },
+        {
+            "key": 28,
+            "value": "Black Point Siamese"
+        },
+        {
+            "key": 29,
+            "value": "Slate Point Siamese"
+        },
+        {
+            "key": 30,
+            "value": "Nutmeg Point Siamese"
+        },
+        {
+            "key": 31,
+            "value": "Honey Point Siamese"
+        },
+        {
+            "key": 32,
+            "value": "Red-Eyed Honey Point Siamese"
+        }
+    ]
+}

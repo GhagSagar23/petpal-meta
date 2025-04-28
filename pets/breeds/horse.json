@@ -1,0 +1,189 @@
+{
+	"label": "Horse Breed/Type",
+	"objects": [
+		{
+			"key": 1,
+			"value": "Thoroughbred"
+		},
+		{
+			"key": 2,
+			"value": "American Quarter Horse"
+		},
+		{
+			"key": 3,
+			"value": "Arabian"
+		},
+		{
+			"key": 4,
+			"value": "American Paint Horse"
+		},
+		{
+			"key": 5,
+			"value": "Appaloosa"
+		},
+		{
+			"key": 6,
+			"value": "Morgan"
+		},
+		{
+			"key": 7,
+			"value": "Standardbred"
+		},
+		{
+			"key": 8,
+			"value": "Tennessee Walking Horse"
+		},
+        {
+			"key": 9,
+			"value": "American Saddlebred"
+		},
+        {
+            "key": 10,
+            "value": "Warmblood (various types like Hanoverian, Holsteiner)"
+        },
+        {
+            "key": 11,
+            "value": "Draft Horse (various types like Percheron, Clydesdale, Belgian)"
+        },
+        {
+            "key": 12,
+            "value": "Pony (various breeds like Shetland, Welsh, Connemara)"
+        },
+        {
+            "key": 13,
+            "value": "Miniature Horse"
+        },
+        {
+            "key": 14,
+            "value": "Friesian"
+        },
+        {
+            "key": 15,
+            "value": "Irish Sport Horse"
+        },
+        {
+            "key": 16,
+            "value": "Mustang"
+        },
+        {
+            "key": 17,
+            "value": "Andalusian"
+        },
+        {
+            "key": 18,
+            "value": "Lusitano"
+        },
+        {
+            "key": 19,
+            "value": "Icelandic Horse"
+        },
+        {
+            "key": 20,
+            "value": "Rocky Mountain Horse"
+        },
+		{
+			"key": 21,
+			"value": "Paso Fino"
+		},
+        {
+            "key": 22,
+            "value": "Peruvian Paso"
+        },
+        {
+            "key": 23,
+            "value": "Akhal-Teke"
+        },
+        {
+            "key": 24,
+            "value": "Lipizzaner"
+        },
+        {
+            "key": 25,
+            "value": "Haflinger"
+        },
+        {
+            "key": 26,
+            "value": "Trakehner"
+        },
+        {
+            "key": 27,
+            "value": "Dutch Warmblood (KWPN)"
+        },
+        {
+            "key": 28,
+            "value": "Oldenburg"
+        },
+        {
+            "key": 29,
+            "value": "Selle Français"
+        },
+        {
+            "key": 30,
+            "value": "Shire"
+        },
+        {
+            "key": 31,
+            "value": "Suffolk Punch"
+        },
+        {
+            "key": 32,
+            "value": "Fell Pony"
+        },
+        {
+            "key": 33,
+            "value": "Dales Pony"
+        },
+        {
+            "key": 34,
+            "value": "Highland Pony"
+        },
+        {
+            "key": 35,
+            "value": "New Forest Pony"
+        },
+        {
+            "key": 36,
+            "value": "Exmoor Pony"
+        },
+        {
+            "key": 37,
+            "value": "Dartmoor Pony"
+        },
+        {
+            "key": 38,
+            "value": "Welsh Pony (various sections: A, B, C, D)"
+        },
+        {
+            "key": 39,
+            "value": "Hackney Horse"
+        },
+        {
+            "key": 40,
+            "value": "American Cream Draft Horse"
+        },
+        {
+            "key": 41,
+            "value": "Spotted Saddle Horse"
+        },
+        {
+            "key": 42,
+            "value": "Missouri Fox Trotter"
+        },
+        {
+            "key": 43,
+            "value": "Palomino (color breed, but often considered a type)"
+        },
+        {
+            "key": 44,
+            "value": "Buckskin (color breed, but often considered a type)"
+        },
+        {
+            "key": 45,
+            "value": "Dun (color breed, but often considered a type)"
+        },
+        {
+            "key": 46,
+            "value": "Roan (color breed, but often considered a type)"
+        }
+	]
+}

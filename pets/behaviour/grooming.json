@@ -1,0 +1,121 @@
+{
+    "label": "Pet Grooming",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Brushing (frequency varies by coat type)"
+        },
+        {
+            "key": 2,
+            "value": "Combing (for longer or thicker coats)"
+        },
+        {
+            "key": 3,
+            "value": "Nail Trimming"
+        },
+        {
+            "key": 4,
+            "value": "Bathing (frequency varies)"
+        },
+        {
+            "key": 5,
+            "value": "Teeth Brushing"
+        },
+        {
+            "key": 6,
+            "value": "Ear Cleaning"
+        },
+        {
+            "key": 7,
+            "value": "Eye Cleaning (for certain breeds)"
+        },
+        {
+            "key": 8,
+            "value": "Shedding Management"
+        },
+        {
+            "key": 9,
+            "value": "Professional Grooming (for certain breeds or coat types)"
+        },
+        {
+            "key": 10,
+            "value": "Coat Matting Prevention"
+        },
+        {
+            "key": 11,
+            "value": "Sanitary Trims (around rear and belly)"
+        },
+        {
+            "key": 12,
+            "value": "Paw Care (checking for debris, moisturizing pads)"
+        },
+        {
+            "key": 13,
+            "value": "Feather Plucking (for some birds)"
+        },
+        {
+            "key": 14,
+            "value": "Molting Assistance (for reptiles and amphibians)"
+        },
+        {
+            "key": 15,
+            "value": "Shell Cleaning (for turtles and tortoises)"
+        },
+        {
+            "key": 16,
+            "value": "Skin Care (addressing dryness, allergies)"
+        },
+        {
+            "key": 17,
+            "value": "Fur Trimming Around Eyes and Face"
+        },
+        {
+            "key": 18,
+            "value": "Whisker Trimming (generally not recommended unless medically necessary)"
+        },
+        {
+            "key": 19,
+            "value": "Anal Gland Expression (dogs, usually by a vet or groomer)"
+        },
+        {
+            "key": 20,
+            "value": "Beak Trimming (for birds, if necessary and by a professional)"
+        },
+        {
+            "key": 21,
+            "value": "Specialized Grooming for Specific Breeds (e.g., Poodles, Persians)"
+        },
+        {
+            "key": 22,
+            "value": "Regular Inspection for Parasites (fleas, ticks, etc.)"
+        },
+        {
+            "key": 23,
+            "value": "Maintaining a Clean Living Environment"
+        },
+        {
+            "key": 24,
+            "value": "Proper Tools and Equipment for Grooming"
+        },
+        {
+            "key": 25,
+            "value": "Positive Reinforcement During Grooming"
+        },
+        {
+            "key": 26,
+            "value": "Gradual Introduction to Grooming (especially for young pets)"
+        },
+        {
+            "key": 27,
+            "value": "Handling and Restraint for Grooming"
+        },
+        {
+            "key": 28,
+            "value": "Recognizing Signs of Grooming-Related Issues (skin irritation, etc.)"
+        },
+        {
+            "key": 29,
+            "value": "Understanding Breed-Specific Grooming Requirements"
+        }
+    ]
+}

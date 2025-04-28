@@ -1,0 +1,73 @@
+{
+    "label": "Amphibian Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "American Green Tree Frog"
+        },
+        {
+            "key": 2,
+            "value": "White's Tree Frog (Dumpy Tree Frog)"
+        },
+        {
+            "key": 3,
+            "value": "Red-Eyed Tree Frog"
+        },
+        {
+            "key": 4,
+            "value": "Pacman Frog (various morphs)"
+        },
+        {
+            "key": 5,
+            "value": "Poison Dart Frog (various species - require specialized care and may be regulated)"
+        },
+        {
+            "key": 6,
+            "value": "Fire-Bellied Toad (various species)"
+        },
+        {
+            "key": 7,
+            "value": "American Toad"
+        },
+        {
+            "key": 8,
+            "value": "Cane Toad (Giant Toad) - can be invasive in some areas"
+        },
+        {
+            "key": 9,
+            "value": "African Bullfrog (Pixie Frog)"
+        },
+        {
+            "key": 10,
+            "value": "Tomato Frog"
+        },
+        {
+            "key": 11,
+            "value": "Axolotl (various color morphs)"
+        },
+        {
+            "key": 12,
+            "value": "Tiger Salamander"
+        },
+        {
+            "key": 13,
+            "value": "Spotted Salamander"
+        },
+        {
+            "key": 14,
+            "value": "Eastern Newt (Red Eft stage)"
+        },
+        {
+            "key": 15,
+            "value": "Fire Salamander"
+        },
+        {
+            "key": 16,
+            "value": "Paddle-Tail Newt"
+        },
+        {
+            "key": 17,
+            "value": "Rubber Eel (not actually an eel, but a type of caecilian) - less common as pets"
+        }
+    ]
+}

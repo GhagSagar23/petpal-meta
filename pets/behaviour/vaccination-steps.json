@@ -1,0 +1,101 @@
+{
+    "label": "Vaccination Procedures & Considerations",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Initial Veterinary Examination and Health Assessment"
+        },
+        {
+            "key": 2,
+            "value": "Core Vaccinations (often given in a series of boosters)"
+        },
+        {
+            "key": 3,
+            "value": "First Vaccination Dose (typically around 6-8 weeks of age for puppies and kittens)"
+        },
+        {
+            "key": 4,
+            "value": "Second Vaccination Dose (usually 3-4 weeks after the first)"
+        },
+        {
+            "key": 5,
+            "value": "Third Vaccination Dose (if needed, often 3-4 weeks after the second)"
+        },
+        {
+            "key": 6,
+            "value": "Rabies Vaccination (timing varies by location and vaccine)"
+        },
+        {
+            "key": 7,
+            "value": "Booster Vaccinations (given periodically throughout the pet's life)"
+        },
+        {
+            "key": 8,
+            "value": "Optional or Non-Core Vaccinations (if recommended based on risk)"
+        },
+        {
+            "key": 9,
+            "value": "Titre Testing (in some cases, to assess immunity levels instead of routine boosters)"
+        },
+        {
+            "key": 10,
+            "value": "Vaccination Record Keeping"
+        },
+        {
+            "key": 11,
+            "value": "Discussion of Potential Side Effects"
+        },
+        {
+            "key": 12,
+            "value": "Monitoring After Vaccination"
+        },
+        {
+            "key": 13,
+            "value": "Legal Requirements Review (for rabies and other vaccines)"
+        },
+        {
+            "key": 14,
+            "value": "Travel Vaccination Considerations (if applicable)"
+        },
+        {
+            "key": 15,
+            "value": "Bordetella Vaccination (often required for boarding or grooming)"
+        },
+        {
+            "key": 16,
+            "value": "Influenza Vaccination (for dogs and sometimes cats)"
+        },
+        {
+            "key": 17,
+            "value": "Lyme Disease Vaccination (in endemic areas)"
+        },
+        {
+            "key": 18,
+            "value": "Feline Leukemia Virus (FeLV) Vaccination (for cats at risk)"
+        },
+        {
+            "key": 19,
+            "value": "Feline Immunodeficiency Virus (FIV) Vaccination (for cats at risk - efficacy debated)"
+        },
+        {
+            "key": 20,
+            "value": "Canine Parainfluenza Virus Vaccination (often in combination vaccines)"
+        },
+        {
+            "key": 21,
+            "value": "Leptospirosis Vaccination (for dogs at risk)"
+        },
+        {
+            "key": 22,
+            "value": "Coronavirus Vaccination (for dogs, not the same as human COVID-19)"
+        },
+        {
+            "key": 23,
+            "value": "Giardia Vaccination (for dogs, efficacy debated)"
+        },
+        {
+            "key": 24,
+            "value": "Regular Veterinary Check-ups to Review Vaccination Needs"
+        }
+    ]
+}

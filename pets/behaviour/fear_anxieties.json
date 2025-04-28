@@ -1,0 +1,169 @@
+{
+    "label": "Pet Fears & Anxieties",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Loud Noises (thunder, fireworks, vacuum cleaners)"
+        },
+        {
+            "key": 2,
+            "value": "Separation Anxiety (being left alone)"
+        },
+        {
+            "key": 3,
+            "value": "Strangers (fear of unfamiliar people)"
+        },
+        {
+            "key": 4,
+            "value": "Other Animals (dogs, cats, specific species)"
+        },
+        {
+            "key": 5,
+            "value": "Veterinary Visits"
+        },
+        {
+            "key": 6,
+            "value": "Car Rides"
+        },
+        {
+            "key": 7,
+            "value": "Grooming (bathing, nail trimming)"
+        },
+        {
+            "key": 8,
+            "value": "Being Restrained"
+        },
+        {
+            "key": 9,
+            "value": "New Environments"
+        },
+        {
+            "key": 10,
+            "value": "Specific Objects (e.g., hats, umbrellas)"
+        },
+        {
+            "key": 11,
+            "value": "Darkness"
+        },
+        {
+            "key": 12,
+            "value": "Stairs or Slippery Floors"
+        },
+        {
+            "key": 13,
+            "value": "Sudden Movements"
+        },
+        {
+            "key": 14,
+            "value": "Changes in Routine"
+        },
+        {
+            "key": 15,
+            "value": "Children"
+        },
+        {
+            "key": 16,
+            "value": "Men (or women, depending on past experiences)"
+        },
+        {
+            "key": 17,
+            "value": "Certain Smells"
+        },
+        {
+            "key": 18,
+            "value": "Certain Sounds (other than loud noises)"
+        },
+        {
+            "key": 19,
+            "value": "Being Picked Up or Held"
+        },
+        {
+            "key": 20,
+            "value": "Crowded Places"
+        },
+        {
+            "key": 21,
+            "value": "Confined Spaces"
+        },
+        {
+            "key": 22,
+            "value": "Open Spaces"
+        },
+        {
+            "key": 23,
+            "value": "Heights"
+        },
+        {
+            "key": 24,
+            "value": "Water (baths, swimming)"
+        },
+        {
+            "key": 25,
+            "value": "Abandonment"
+        },
+        {
+            "key": 26,
+            "value": "Punishment or Yelling"
+        },
+        {
+            "key": 27,
+            "value": "Illness or Pain"
+        },
+        {
+            "key": 28,
+            "value": "Aging and Cognitive Decline"
+        },
+        {
+            "key": 29,
+            "value": "Specific Places (e.g., the garage, the basement)"
+        },
+        {
+            "key": 30,
+            "value": "Mirrors or Reflections"
+        },
+        {
+            "key": 31,
+            "value": "Balloons"
+        },
+        {
+            "key": 32,
+            "value": "Plastic Bags"
+        },
+        {
+            "key": 33,
+            "value": "Hats or Hoods"
+        },
+        {
+            "key": 34,
+            "value": "Certain Types of Flooring"
+        },
+        {
+            "key": 35,
+            "value": "Loud Voices"
+        },
+        {
+            "key": 36,
+            "value": "Visual Stimuli (e.g., shadows, flashing lights)"
+        },
+        {
+            "key": 37,
+            "value": "Changes in Household Members"
+        },
+        {
+            "key": 38,
+            "value": "Moving to a New Home"
+        },
+        {
+            "key": 39,
+            "value": "Construction or Renovations"
+        },
+        {
+            "key": 40,
+            "value": "Loss of a Companion Animal or Human"
+        },
+        {
+            "key": 41,
+            "value": "Past Traumatic Experiences"
+        }
+    ]
+}

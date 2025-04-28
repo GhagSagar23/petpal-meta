@@ -1,0 +1,33 @@
+{
+    "label": "Turtle Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Red-Eared Slider"
+        },
+        {
+            "key": 2,
+            "value": "Painted Turtle (various subspecies)"
+        },
+        {
+            "key": 3,
+            "value": "Musk Turtle (various species like Common Musk, Stinkpot)"
+        },
+        {
+            "key": 4,
+            "value": "Mud Turtle (various species)"
+        },
+        {
+            "key": 5,
+            "value": "Spotted Turtle"
+        },
+        {
+            "key": 6,
+            "value": "Diamondback Terrapin (various subspecies)"
+        },
+        {
+            "key": 7,
+            "value": "Map Turtle (various species)"
+        }
+    ]
+}

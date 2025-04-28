@@ -1,0 +1,61 @@
+{
+    "label": "Snake Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Corn Snake (various morphs like Amel, Snow, Motley, Anerythristic)"
+        },
+        {
+            "key": 2,
+            "value": "Ball Python (various morphs like Albino, Pastel, Spider, Piebald)"
+        },
+        {
+            "key": 3,
+            "value": "King Snake (various species like California King Snake, Florida King Snake)"
+        },
+        {
+            "key": 4,
+            "value": "Milk Snake (various species like Honduran Milk Snake, Pueblan Milk Snake)"
+        },
+        {
+            "key": 5,
+            "value": "Rosy Boa"
+        },
+        {
+            "key": 6,
+            "value": "Garter Snake (various species)"
+        },
+        {
+            "key": 7,
+            "value": "Hognose Snake (Western Hognose is most common)"
+        },
+        {
+            "key": 8,
+            "value": "Rat Snake (various species like Black Rat Snake, Corn Rat Snake - which is the same as Corn Snake)"
+        },
+        {
+            "key": 9,
+            "value": "Carpet Python (various locales and morphs)"
+        },
+        {
+            "key": 10,
+            "value": "Boa Constrictor (various localities and morphs)"
+        },
+        {
+            "key": 11,
+            "value": "Royal Python (same as Ball Python)"
+        },
+        {
+            "key": 12,
+            "value": "Kenyan Sand Boa"
+        },
+        {
+            "key": 13,
+            "value": "Children's Python"
+        },
+        {
+            "key": 14,
+            "value": "Antaresia species (Spotted Python, Stimson's Python)"
+        }
+    ]
+}

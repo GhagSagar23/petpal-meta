@@ -1,0 +1,69 @@
+{
+    "label": "Fish Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Betta (Siamese Fighting Fish)"
+        },
+        {
+            "key": 2,
+            "value": "Goldfish (various varieties like Comet, Fantail, Black Moor, Oranda)"
+        },
+        {
+            "key": 3,
+            "value": "Guppy"
+        },
+        {
+            "key": 4,
+            "value": "Molly"
+        },
+        {
+            "key": 5,
+            "value": "Platy"
+        },
+        {
+            "key": 6,
+            "value": "Swordtail"
+        },
+        {
+            "key": 7,
+            "value": "Angelfish"
+        },
+        {
+            "key": 8,
+            "value": "Corydoras Catfish"
+        },
+        {
+            "key": 9,
+            "value": "Plecostomus (various types)"
+        },
+        {
+            "key": 10,
+            "value": "Tetra (Neon, Cardinal, Black Skirt, etc.)"
+        },
+        {
+            "key": 11,
+            "value": "Rasbora (Harlequin, Chili, etc.)"
+        },
+        {
+            "key": 12,
+            "value": "Dwarf Gourami"
+        },
+        {
+            "key": 13,
+            "value": "Killifish (various species)"
+        },
+        {
+            "key": 14,
+            "value": "Oscar"
+        },
+        {
+            "key": 15,
+            "value": "Discus"
+        },
+        {
+            "key": 16,
+            "value": "Loach (Kuhli, Clown, etc.)"
+        }
+    ]
+}

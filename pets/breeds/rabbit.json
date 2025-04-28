@@ -1,0 +1,153 @@
+{
+    "label": "Rabbit Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Dutch"
+        },
+        {
+            "key": 2,
+            "value": "Mini Lop"
+        },
+        {
+            "key": 3,
+            "value": "Holland Lop"
+        },
+        {
+            "key": 4,
+            "value": "Dwarf Hotot"
+        },
+        {
+            "key": 5,
+            "value": "Mini Rex"
+        },
+        {
+            "key": 6,
+            "value": "Netherland Dwarf"
+        },
+        {
+            "key": 7,
+            "value": "English Lop"
+        },
+        {
+            "key": 8,
+            "value": "French Lop"
+        },
+        {
+            "key": 9,
+            "value": "Rex"
+        },
+        {
+            "key": 10,
+            "value": "New Zealand White"
+        },
+        {
+            "key": 11,
+            "value": "Californian"
+        },
+        {
+            "key": 12,
+            "value": "Flemish Giant"
+        },
+        {
+            "key": 13,
+            "value": "Lionhead"
+        },
+        {
+            "key": 14,
+            "value": "Polish"
+        },
+        {
+            "key": 15,
+            "value": "Satin"
+        },
+        {
+            "key": 16,
+            "value": "Angora (English, French, Giant, Satin)"
+        },
+        {
+            "key": 17,
+            "value": "Checkered Giant"
+        },
+        {
+            "key": 18,
+            "value": "Silver Fox"
+        },
+        {
+            "key": 19,
+            "value": "Tan"
+        },
+        {
+            "key": 20,
+            "value": "Belgian Hare"
+        },
+        {
+            "key": 21,
+            "value": "Palomino"
+        },
+        {
+            "key": 22,
+            "value": "Harlequin"
+        },
+        {
+            "key": 23,
+            "value": "Rhylander"
+        },
+        {
+            "key": 24,
+            "value": "Silver Marten"
+        },
+        {
+            "key": 25,
+            "value": "Lilac"
+        },
+        {
+            "key": 26,
+            "value": "Chinchilla (Standard, American, Giant)"
+        },
+        {
+            "key": 27,
+            "value": "Britannia Petite"
+        },
+        {
+            "key": 28,
+            "value": "Blanc de Hotot"
+        },
+        {
+            "key": 29,
+            "value": "Beveren"
+        },
+        {
+            "key": 30,
+            "value": "Cinnamon"
+        },
+        {
+            "key": 31,
+            "value": "Creme d'Argent"
+        },
+        {
+            "key": 32,
+            "value": "Florida White"
+        },
+        {
+            "key": 33,
+            "value": "Hotot"
+        },
+        {
+            "key": 34,
+            "value": "Japanese Harlequin"
+        },
+        {
+            "key": 35,
+            "value": "Silver"
+        },
+        {
+            "key": 36,
+            "value": "Thrianta"
+        },
+        {
+            "key": 37,
+            "value": "American Fuzzy Lop"
+        }
+    ]
+}

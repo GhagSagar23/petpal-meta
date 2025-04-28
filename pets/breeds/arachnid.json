@@ -1,0 +1,33 @@
+{
+    "label": "Arachnid Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Tarantula (various species like Chilean Rose Hair, Mexican Red Knee, Pink Toe)"
+        },
+        {
+            "key": 2,
+            "value": "Scorpion (various species like Emperor Scorpion, Desert Hairy Scorpion, Flat Rock Scorpion)"
+        },
+        {
+            "key": 3,
+            "value": "Vinegaroon (Whip Scorpion)"
+        },
+        {
+            "key": 4,
+            "value": "Tailless Whip Scorpion (Amblypygid)"
+        },
+        {
+            "key": 5,
+            "value": "True Spider (less common as pets, but some keep species like Jumping Spiders)"
+        },
+        {
+            "key": 6,
+            "value": "Mites (some specialized types kept in bioactive terrariums)"
+        },
+        {
+            "key": 7,
+            "value": "Pseudoscorpions (also kept in bioactive terrariums)"
+        }
+    ]
+}

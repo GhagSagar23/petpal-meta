@@ -1,0 +1,53 @@
+{
+    "label": "Hedgehog Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "African Pygmy Hedgehog"
+        },
+        {
+            "key": 2,
+            "value": "Salt and Pepper"
+        },
+        {
+            "key": 3,
+            "value": "Algerian Grey"
+        },
+        {
+            "key": 4,
+            "value": "White Bellied"
+        },
+        {
+            "key": 5,
+            "value": "Pinto"
+        },
+        {
+            "key": 6,
+            "value": "Snowflake"
+        },
+        {
+            "key": 7,
+            "value": "Albino"
+        },
+        {
+            "key": 8,
+            "value": "Champagne"
+        },
+        {
+            "key": 9,
+            "value": "Chocolate"
+        },
+        {
+            "key": 10,
+            "value": "Cinnamon"
+        },
+        {
+            "key": 11,
+            "value": "Apricot"
+        },
+        {
+            "key": 12,
+            "value": "Ruby-Eyed White"
+        }
+    ]
+}

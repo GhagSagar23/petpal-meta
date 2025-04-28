@@ -1,0 +1,69 @@
+{
+    "label": "Lizard Breeds/Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Bearded Dragon (various color morphs)"
+        },
+        {
+            "key": 2,
+            "value": "Leopard Gecko (various morphs like Mack Snow, Tremper Albino, Bold Stripe)"
+        },
+        {
+            "key": 3,
+            "value": "Crested Gecko (various morphs and patterns like Harlequin, Pinstripe, Lily White)"
+        },
+        {
+            "key": 4,
+            "value": "Day Gecko (various species like Giant Day Gecko, Gold Dust Day Gecko)"
+        },
+        {
+            "key": 5,
+            "value": "Tokay Gecko"
+        },
+        {
+            "key": 6,
+            "value": "Blue-Tongued Skink (various species like Indonesian, Australian)"
+        },
+        {
+            "key": 7,
+            "value": "Uromastyx (various species like Mali Uromastyx, Ornate Uromastyx)"
+        },
+        {
+            "key": 8,
+            "value": "Leopard Lizard"
+        },
+        {
+            "key": 9,
+            "value": "Collared Lizard"
+        },
+        {
+            "key": 10,
+            "value": "Anole (Green Anole is common)"
+        },
+        {
+            "key": 11,
+            "value": "Skink (various species like Fire Skink, Berber Skink)"
+        },
+        {
+            "key": 12,
+            "value": "Tegus (various species like Argentine Black and White Tegu, Red Tegu)"
+        },
+        {
+            "key": 13,
+            "value": "Chameleon (various species like Veiled Chameleon, Panther Chameleon)"
+        },
+        {
+            "key": 14,
+            "value": "Chinese Water Dragon"
+        },
+        {
+            "key": 15,
+            "value": "Frilled Dragon"
+        },
+        {
+            "key": 16,
+            "value": "Plated Lizard (various species like Sudan Plated Lizard)"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "label": "Rat Types/Varieties",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Standard coat (smooth, short hair)"
+        },
+        {
+            "key": 2,
+            "value": "Rex (curly coat and whiskers)"
+        },
+        {
+            "key": 3,
+            "value": "Hairless"
+        },
+        {
+            "key": 4,
+            "value": "Satin (glossy coat)"
+        },
+        {
+            "key": 5,
+            "value": "Dumbo (large, low-set ears)"
+        },
+        {
+            "key": 6,
+            "value": "Tailless (Manx or Bobtail)"
+        },
+        {
+            "key": 7,
+            "value": "Agouti"
+        },
+        {
+            "key": 8,
+            "value": "Black"
+        },
+        {
+            "key": 9,
+            "value": "Albino (Pink-Eyed White)"
+        },
+        {
+            "key": 10,
+            "value": "Red-Eyed White"
+        },
+        {
+            "key": 11,
+            "value": "Fawn"
+        },
+        {
+            "key": 12,
+            "value": "Beige"
+        },
+        {
+            "key": 13,
+            "value": "Chocolate"
+        },
+        {
+            "key": 14,
+            "value": "Blue (Russian Blue, American Blue)"
+        },
+        {
+            "key": 15,
+            "value": "Mink"
+        },
+        {
+            "key": 16,
+            "value": "Champagne"
+        },
+        {
+            "key": 17,
+            "value": "Lilac"
+        },
+        {
+            "key": 18,
+            "value": "Silver"
+        },
+        {
+            "key": 19,
+            "value": "Himalayan"
+        },
+        {
+            "key": 20,
+            "value": "Siamese"
+        }
+    ]
+}

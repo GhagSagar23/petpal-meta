@@ -1,0 +1,25 @@
+{
+    "label": "Hamster Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Syrian Hamster (also known as Golden Hamster or Teddy Bear Hamster)"
+        },
+        {
+            "key": 2,
+            "value": "Dwarf Campbell's Russian Hamster"
+        },
+        {
+            "key": 3,
+            "value": "Dwarf Winter White Russian Hamster (also known as Siberian Hamster)"
+        },
+        {
+            "key": 4,
+            "value": "Roborovski Dwarf Hamster"
+        },
+        {
+            "key": 5,
+            "value": "Chinese Hamster"
+        }
+    ]
+}

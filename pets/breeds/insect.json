@@ -1,0 +1,61 @@
+{
+    "label": "Insect & Other Invertebrate Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Praying Mantis (various species like Giant African, Orchid, Ghost)"
+        },
+        {
+            "key": 2,
+            "value": "Stick Insects (various species like Indian Stick, Giant Walking Stick)"
+        },
+        {
+            "key": 3,
+            "value": "Leaf Insects (various species)"
+        },
+        {
+            "key": 4,
+            "value": "Giant African Land Snail"
+        },
+        {
+            "key": 5,
+            "value": "Madagascar Hissing Cockroach"
+        },
+        {
+            "key": 6,
+            "value": "Beetle (various species like Hercules Beetle, Flower Beetle)"
+        },
+        {
+            "key": 7,
+            "value": "Millipede (various species like Giant African, Scarlet Millipede)"
+        },
+        {
+            "key": 8,
+            "value": "Centipede (various species - handle with caution, some can bite)"
+        },
+        {
+            "key": 9,
+            "value": "Tarantula (various species - technically arachnids, but often grouped with insects in the pet trade)"
+        },
+        {
+            "key": 10,
+            "value": "Scorpion (various species - handle with extreme caution, venomous)"
+        },
+        {
+            "key": 11,
+            "value": "Ant Farms (various ant species)"
+        },
+        {
+            "key": 12,
+            "value": "Silkworms"
+        },
+        {
+            "key": 13,
+            "value": "Crickets (often kept as feeders but some find them interesting pets)"
+        },
+        {
+            "key": 14,
+            "value": "Mealworms (similarly, mostly feeders but sometimes kept as pets)"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "label": "Dog Breeds",
+    "objects": [
+        {
+			"key": 1,
+			"value": "Labrador Retriever"
+		},
+		{
+			"key": 2,
+			"value": "German Shepherd"
+		},
+		{
+			"key": 3,
+			"value": "Golden Retriever"
+		},
+		{
+			"key": 4,
+			"value": "French Bulldog"
+		},
+		{
+			"key": 5,
+			"value": "Poodle (Standard/Miniature/Toy)"
+		},
+        {
+			"key": 6,
+			"value": "Beagle"
+		},
+        {
+			"key": 7,
+			"value": "Rottweiler"
+		},
+        {
+			"key": 8,
+			"value": "Dachshund"
+		},
+        {
+			"key": 9,
+			"value": "Mixed Breed / Mutt (Dog)"
+		},
+        {
+			"key": 10,
+			"value": "Breed Unknown"
+		},
+        {
+			"key": 11,
+			"value": "Bulldog"
+		},
+		{
+			"key": 12,
+			"value": "Yorkshire Terrier"
+		},
+		{
+			"key": 13,
+			"value": "Boxer"
+		},
+		{
+			"key": 14,
+			"value": "Shih Tzu"
+		},
+		{
+			"key": 15,
+			"value": "Doberman Pinscher"
+		},
+		{
+			"key": 16,
+			"value": "Bernese Mountain Dog"
+		},
+		{
+			"key": 17,
+			"value": "Siberian Husky"
+		},
+		{
+			"key": 18,
+			"value": "Australian Shepherd"
+		},
+		{
+			"key": 19,
+			"value": "Cavalier King Charles Spaniel"
+		},
+		{
+			"key": 20,
+			"value": "Shetland Sheepdog"
+		},
+		{
+			"key": 21,
+			"value": "Bichon Frise"
+		},
+		{
+			"key": 22,
+			"value": "Pug"
+		},
+		{
+			"key": 23,
+			"value": "Boston Terrier"
+		},
+		{
+			"key": 24,
+			"value": "Pomeranian"
+		},
+		{
+			"key": 25,
+			"value": "Havanese"
+		},
+		{
+			"key": 26,
+			"value": "English Springer Spaniel"
+		},
+		{
+			"key": 27,
+			"value": "Brittany Spaniel"
+		},
+		{
+			"key": 28,
+			"value": "Vizsla"
+		},
+		{
+			"key": 29,
+			"value": "Weimaraner"
+		},
+		{
+			"key": 30,
+			"value": "Great Dane"
+		},
+		{
+			"key": 31,
+			"value": "Akita"
+		},
+		{
+			"key": 32,
+			"value": "Samoyed"
+		},
+		{
+			"key": 33,
+			"value": "Alaskan Malamute"
+		},
+		{
+			"key": 34,
+			"value": "Border Collie"
+		},
+		{
+			"key": 35,
+			"value": "Cocker Spaniel"
+		},
+		{
+			"key": 36,
+			"value": "Miniature Schnauzer"
+		},
+		{
+			"key": 37,
+			"value": "West Highland White Terrier"
+		},
+		{
+			"key": 38,
+			"value": "Basset Hound"
+		},
+		{
+			"key": 39,
+			"value": "Shar-Pei"
+		},
+		{
+			"key": 40,
+			"value": "Chihuahua"
+		},
+		{
+			"key": 41,
+			"value": "Maltese"
+		},
+		{
+			"key": 42,
+			"value": "Newfoundland"
+		},
+		{
+			"key": 43,
+			"value": "Saint Bernard"
+		},
+		{
+			"key": 44,
+			"value": "Bullmastiff"
+		},
+		{
+			"key": 45,
+			"value": "Cane Corso"
+		},
+		{
+			"key": 46,
+			"value": "Great Pyrenees"
+		},
+		{
+			"key": 47,
+			"value": "Irish Setter"
+		},
+		{
+			"key": 48,
+			"value": "Scottish Terrier"
+		},
+		{
+			"key": 49,
+			"value": "Whippet"
+		},
+		{
+			"key": 50,
+			"value": "Basenji"
+		},
+		{
+			"key": 51,
+			"value": "Rhodesian Ridgeback"
+		},
+		{
+			"key": 52,
+			"value": "Staffordshire Bull Terrier"
+		},
+		{
+			"key": 53,
+			"value": "American Staffordshire Terrier"
+		},
+		{
+			"key": 54,
+			"value": "Bolognese"
+		},
+		{
+			"key": 55,
+			"value": "Brussels Griffon"
+		},
+		{
+			"key": 56,
+			"value": "Coton de Tulear"
+		},
+		{
+			"key": 57,
+			"value": "Irish Wolfhound"
+		},
+		{
+			"key": 58,
+			"value": "Japanese Chin"
+		},
+		{
+			"key": 59,
+			"value": "Lhasa Apso"
+		},
+		{
+			"key": 60,
+			"value": "Norwegian Elkhound"
+		},
+		{
+			"key": 61,
+			"value": "Papillon"
+		},
+		{
+			"key": 62,
+			"value": "Pekingese"
+		},
+		{
+			"key": 63,
+			"value": "Scottish Deerhound"
+		},
+		{
+			"key": 64,
+			"value": "Tibetan Spaniel"
+		},
+		{
+			"key": 65,
+			"value": "Welsh Corgi (Pembroke or Cardigan)"
+		},
+		{
+			"key": 66,
+			"value": "Miniature Pinscher"
+		},
+		{
+			"key": 67,
+			"value": "Italian Greyhound"
+		},
+		{
+			"key": 68,
+			"value": "Kerry Blue Terrier"
+		},
+		{
+			"key": 69,
+			"value": "Soft-Coated Wheaten Terrier"
+		},
+		{
+			"key": 70,
+			"value": "Airedale Terrier"
+		},
+		{
+			"key": 71,
+			"value": "Bedlington Terrier"
+		},
+		{
+			"key": 72,
+			"value": "Border Terrier"
+		},
+		{
+			"key": 73,
+			"value": "Jack Russell Terrier"
+		},
+		{
+			"key": 74,
+			"value": "Lakeland Terrier"
+		},
+		{
+			"key": 75,
+			"value": "Norfolk Terrier"
+		},
+		{
+			"key": 76,
+			"value": "Norwich Terrier"
+		},
+		{
+			"key": 77,
+			"value": "Parson Russell Terrier"
+		},
+		{
+			"key": 78,
+			"value": "Sealyham Terrier"
+		},
+		{
+			"key": 79,
+			"value": "Skye Terrier"
+		},
+		{
+			"key": 80,
+			"value": "Welsh Terrier"
+		},
+		{
+			"key": 81,
+			"value": "Wire Fox Terrier"
+		},
+		{
+			"key": 82,
+			"value": "American Eskimo Dog"
+		},
+		{
+			"key": 83,
+			"value": "Chinese Crested"
+		},
+		{
+			"key": 84,
+			"value": "Lowchen"
+		},
+		{
+			"key": 85,
+			"value": "Tibetan Terrier"
+		},
+		{
+			"key": 86,
+			"value": "Xoloitzcuintli"
+		},
+		{
+			"key": 87,
+			"value": "Anatolian Shepherd Dog"
+		},
+		{
+			"key": 88,
+			"value": "Belgian Malinois"
+		},
+		{
+			"key": 89,
+			"value": "Belgian Sheepdog"
+		},
+		{
+			"key": 90,
+			"value": "Belgian Tervuren"
+		},
+		{
+			"key": 91,
+			"value": "Bouvier des Flandres"
+		},
+		{
+			"key": 92,
+			"value": "Briard"
+		},
+		{
+			"key": 93,
+			"value": "Komondor"
+		},
+		{
+			"key": 94,
+			"value": "Kuvasz"
+		},
+		{
+			"key": 95,
+			"value": "Old English Sheepdog"
+		},
+		{
+			"key": 96,
+			"value": "Polish Lowland Sheepdog"
+		},
+		{
+			"key": 97,
+			"value": "Schipperke"
+		},
+		{
+			"key": 98,
+			"value": "Giant Schnauzer"
+		},
+		{
+			"key": 99,
+			"value": "Standard Schnauzer"
+		},
+		{
+			"key": 100,
+			"value": "Black Russian Terrier"
+		},
+		{
+			"key": 101,
+			"value": "Bloodhound"
+		},
+		{
+			"key": 102,
+			"value": "Borzoi"
+		},
+		{
+			"key": 103,
+			"value": "Greyhound"
+		},
+		{
+			"key": 104,
+			"value": "Ibizan Hound"
+		},
+		{
+			"key": 105,
+			"value": "Norwegian Lundehund"
+		},
+		{
+			"key": 106,
+			"value": "Petit Basset Griffon Vendéen"
+		},
+		{
+			"key": 107,
+			"value": "Pharaoh Hound"
+		},
+		{
+			"key": 108,
+			"value": "Saluki"
+		},
+		{
+			"key": 109,
+			"value": "Afghan Hound"
+		},
+		{
+			"key": 110,
+			"value": "American Water Spaniel"
+		},
+		{
+			"key": 111,
+			"value": "Boykin Spaniel"
+		},
+		{
+			"key": 112,
+			"value": "Clumber Spaniel"
+		},
+		{
+			"key": 113,
+			"value": "Field Spaniel"
+		},
+		{
+			"key": 114,
+			"value": "Irish Water Spaniel"
+		},
+		{
+			"key": 115,
+			"value": "Sussex Spaniel"
+		},
+		{
+			"key": 116,
+			"value": "Welsh Springer Spaniel"
+		},
+		{
+			"key": 117,
+			"value": "Spinone Italiano"
+		},
+		{
+			"key": 118,
+			"value": "Wirehaired Pointing Griffon"
+		},
+		{
+			"key": 119,
+			"value": "Akbash Dog"
+		},
+		{
+			"key": 120,
+			"value": "Canaan Dog"
+		},
+		{
+			"key": 121,
+			"value": "Carolina Dog"
+		},
+		{
+			"key": 122,
+			"value": "Eurasier"
+		},
+		{
+			"key": 123,
+			"value": "Finnish Spitz"
+		},
+		{
+			"key": 124,
+			"value": "Korean Jindo Dog"
+		},
+		{
+			"key": 125,
+			"value": "Plott Hound"
+		},
+		{
+			"key": 126,
+			"value": "Treeing Walker Coonhound"
+		}
+    ]
+}

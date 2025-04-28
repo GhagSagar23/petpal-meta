@@ -1,0 +1,57 @@
+{
+    "label": "Ferret Breeds/Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Sable"
+        },
+        {
+            "key": 2,
+            "value": "Black Sable"
+        },
+        {
+            "key": 3,
+            "value": "Albino"
+        },
+        {
+            "key": 4,
+            "value": "Dark-Eyed White (DEW)"
+        },
+        {
+            "key": 5,
+            "value": "Black"
+        },
+        {
+            "key": 6,
+            "value": "Chocolate"
+        },
+        {
+            "key": 7,
+            "value": "Champagne"
+        },
+        {
+            "key": 8,
+            "value": "Cinnamon"
+        },
+        {
+            "key": 9,
+            "value": "Silver"
+        },
+        {
+            "key": 10,
+            "value": "Panda"
+        },
+        {
+            "key": 11,
+            "value": "Mitt"
+        },
+        {
+            "key": 12,
+            "value": "Blaze"
+        },
+        {
+            "key": 13,
+            "value": "Roan"
+        }
+    ]
+}

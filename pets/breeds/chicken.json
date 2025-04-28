@@ -1,0 +1,57 @@
+{
+    "label": "Chicken Breeds",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Leghorn Chicken"
+        },
+        {
+            "key": 2,
+            "value": "Rhode Island Red"
+        },
+        {
+            "key": 3,
+            "value": "Silkie Chicken"
+        },
+        {
+            "key": 4,
+            "value": "Buff Orpington"
+        },
+        {
+            "key": 5,
+            "value": "Wyandotte"
+        },
+        {
+            "key": 6,
+            "value": "Cochin"
+        },
+        {
+            "key": 7,
+            "value": "Australorp"
+        },
+        {
+            "key": 8,
+            "value": "Jersey Giant"
+        },
+        {
+            "key": 9,
+            "value": "Sussex"
+        },
+        {
+            "key": 10,
+            "value": "Brahma"
+        },
+        {
+            "key": 11,
+            "value": "Plymouth Rock"
+        },
+        {
+            "key": 12,
+            "value": "Polish"
+        },
+        {
+            "key": 13,
+            "value": "Speckled Sussex"
+        }
+    ]
+}

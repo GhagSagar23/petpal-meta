@@ -1,0 +1,233 @@
+{
+    "label": "Pet Temperaments",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Affectionate"
+        },
+        {
+            "key": 2,
+            "value": "Playful"
+        },
+        {
+            "key": 3,
+            "value": "Gentle"
+        },
+        {
+            "key": 4,
+            "value": "Calm"
+        },
+        {
+            "key": 5,
+            "value": "Energetic"
+        },
+        {
+            "key": 6,
+            "value": "Curious"
+        },
+        {
+            "key": 7,
+            "value": "Independent"
+        },
+        {
+            "key": 8,
+            "value": "Social"
+        },
+        {
+            "key": 9,
+            "value": "Shy"
+        },
+        {
+            "key": 10,
+            "value": "Timid"
+        },
+        {
+            "key": 11,
+            "value": "Bold"
+        },
+        {
+            "key": 12,
+            "value": "Friendly"
+        },
+        {
+            "key": 13,
+            "value": "Loyal"
+        },
+        {
+            "key": 14,
+            "value": "Protective"
+        },
+        {
+            "key": 15,
+            "value": "Alert"
+        },
+        {
+            "key": 16,
+            "value": "Intelligent"
+        },
+        {
+            "key": 17,
+            "value": "Trainable"
+        },
+        {
+            "key": 18,
+            "value": "Stubborn"
+        },
+        {
+            "key": 19,
+            "value": "Anxious"
+        },
+        {
+            "key": 20,
+            "value": "Fearful"
+        },
+        {
+            "key": 21,
+            "value": "Aggressive"
+        },
+        {
+            "key": 22,
+            "value": "Docile"
+        },
+        {
+            "key": 23,
+            "value": "Lively"
+        },
+        {
+            "key": 24,
+            "value": "Quiet"
+        },
+        {
+            "key": 25,
+            "value": "Vocal"
+        },
+        {
+            "key": 26,
+            "value": "Mischievous"
+        },
+        {
+            "key": 27,
+            "value": "Sweet-tempered"
+        },
+        {
+            "key": 28,
+            "value": "Good-natured"
+        },
+        {
+            "key": 29,
+            "value": "Reserved"
+        },
+        {
+            "key": 30,
+            "value": "Outgoing"
+        },
+        {
+            "key": 31,
+            "value": "Patient"
+        },
+        {
+            "key": 32,
+            "value": "Tolerant"
+        },
+        {
+            "key": 33,
+            "value": "Sensitive"
+        },
+        {
+            "key": 34,
+            "value": "Clingy"
+        },
+        {
+            "key": 35,
+            "value": "Destructive"
+        },
+        {
+            "key": 36,
+            "value": "Dominant"
+        },
+        {
+            "key": 37,
+            "value": "Submissive"
+        },
+        {
+            "key": 38,
+            "value": "Happy"
+        },
+        {
+            "key": 39,
+            "value": "Easygoing"
+        },
+        {
+            "key": 40,
+            "value": "Hardy"
+        },
+        {
+            "key": 41,
+            "value": "Adaptable"
+        },
+        {
+            "key": 42,
+            "value": "Mellow"
+        },
+        {
+            "key": 43,
+            "value": "Laid-back"
+        },
+        {
+            "key": 44,
+            "value": "Fun-loving"
+        },
+        {
+            "key": 45,
+            "value": "Interactive"
+        },
+        {
+            "key": 46,
+            "value": "Observant"
+        },
+        {
+            "key": 47,
+            "value": "Territorial"
+        },
+        {
+            "key": 48,
+            "value": "Food-motivated"
+        },
+        {
+            "key": 49,
+            "value": "Eager to please"
+        },
+        {
+            "key": 50,
+            "value": "Nocturnal"
+        },
+        {
+            "key": 51,
+            "value": "Diurnal"
+        },
+        {
+            "key": 52,
+            "value": "Crepuscular"
+        },
+        {
+            "key": 53,
+            "value": "Skittish"
+        },
+        {
+            "key": 54,
+            "value": "Courageous"
+        },
+        {
+            "key": 55,
+            "value": "Gregarious"
+        },
+        {
+            "key": 56,
+            "value": "Solitary"
+        },
+        {
+            "key": 57,
+            "value": "Broody (specifically for birds)"
+        }
+    ]
+}

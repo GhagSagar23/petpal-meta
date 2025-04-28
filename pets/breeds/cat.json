@@ -1,0 +1,177 @@
+{
+    "label": "Cat Breeds",
+    "objects": [
+        {
+			"key": 1,
+			"value": "Domestic Shorthair"
+		},
+		{
+			"key": 2,
+			"value": "Domestic Longhair"
+		},
+		{
+			"key": 3,
+			"value": "Siamese"
+		},
+		{
+			"key": 4,
+			"value": "Maine Coon"
+		},
+		{
+			"key": 5,
+			"value": "Ragdoll"
+		},
+        {
+			"key": 6,
+			"value": "Persian"
+		},
+        {
+			"key": 7,
+			"value": "Bengal"
+		},
+        {
+			"key": 8,
+			"value": "Mixed Breed (Cat)"
+		},
+        {
+			"key": 9,
+			"value": "Breed Unknown"
+		},
+        {
+            "key": 10,
+            "value": "Abyssinian"
+        },
+        {
+            "key": 11,
+            "value": "American Bobtail"
+        },
+        {
+            "key": 12,
+            "value": "American Curl"
+        },
+        {
+            "key": 13,
+            "value": "Balinese"
+        },
+        {
+            "key": 14,
+            "value": "Birman"
+        },
+        {
+            "key": 15,
+            "value": "Bombay"
+        },
+        {
+            "key": 16,
+            "value": "British Shorthair"
+        },
+        {
+            "key": 17,
+            "value": "Burmese"
+        },
+        {
+            "key": 18,
+            "value": "Chartreux"
+        },
+        {
+            "key": 19,
+            "value": "Cornish Rex"
+        },
+        {
+            "key": 20,
+            "value": "Devon Rex"
+        },
+        {
+            "key": 21,
+            "value": "Egyptian Mau"
+        },
+        {
+            "key": 22,
+            "value": "Exotic Shorthair"
+        },
+        {
+            "key": 23,
+            "value": "Havana Brown"
+        },
+        {
+            "key": 24,
+            "value": "Himalayan"
+        },
+        {
+            "key": 25,
+            "value": "Japanese Bobtail"
+        },
+        {
+            "key": 26,
+            "value": "Korat"
+        },
+        {
+            "key": 27,
+            "value": "LaPerm"
+        },
+        {
+            "key": 28,
+            "value": "Manx"
+        },
+        {
+            "key": 29,
+            "value": "Nebelung"
+        },
+        {
+            "key": 30,
+            "value": "Norwegian Forest Cat"
+        },
+        {
+            "key": 31,
+            "value": "Ocicat"
+        },
+        {
+            "key": 32,
+            "value": "Oriental Shorthair"
+        },
+        {
+            "key": 33,
+            "value": "Peterbald"
+        },
+        {
+            "key": 34,
+            "value": "Russian Blue"
+        },
+        {
+            "key": 35,
+            "value": "Scottish Fold"
+        },
+        {
+            "key": 36,
+            "value": "Selkirk Rex"
+        },
+        {
+            "key": 37,
+            "value": "Singapura"
+        },
+        {
+            "key": 38,
+            "value": "Snowshoe"
+        },
+        {
+            "key": 39,
+            "value": "Somali"
+        },
+        {
+            "key": 40,
+            "value": "Sphynx"
+        },
+        {
+            "key": 41,
+            "value": "Tonkinese"
+        },
+        {
+            "key": 42,
+            "value": "Turkish Angora"
+        },
+        {
+            "key": 43,
+            "value": "Turkish Van"
+        }
+    ]
+}

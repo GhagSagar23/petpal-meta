@@ -1,0 +1,25 @@
+{
+    "label": "Chinchilla Types",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Standard"
+        },
+        {
+            "key": 2,
+            "value": "Long-haired (Royal Persian Angora)"
+        },
+        {
+            "key": 3,
+            "value": "Curly (Locken)"
+        },
+        {
+            "key": 4,
+            "value": "Mosaic (refers to a combination of fur types, often with white spotting)"
+        },
+        {
+            "key": 5,
+            "value": "Velvet (dense, soft fur that stands upright)"
+        }
+    ]
+}

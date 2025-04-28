@@ -1,0 +1,125 @@
+{
+    "label": "Pet Training",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Basic Obedience (Sit, Stay, Come, Down, Leave It, Drop It)"
+        },
+        {
+            "key": 2,
+            "value": "House Training (Potty Training, Litter Box Training)"
+        },
+        {
+            "key": 3,
+            "value": "Crate Training (for dogs)"
+        },
+        {
+            "key": 4,
+            "value": "Leash Training (Walking nicely on a leash)"
+        },
+        {
+            "key": 5,
+            "value": "Socialization (Exposure to various people, animals, environments)"
+        },
+        {
+            "key": 6,
+            "value": "Handling (Getting used to being touched and examined)"
+        },
+        {
+            "key": 7,
+            "value": "Recall (Coming when called)"
+        },
+        {
+            "key": 8,
+            "value": "Loose-Leash Walking"
+        },
+        {
+            "key": 9,
+            "value": "Preventing Jumping"
+        },
+        {
+            "key": 10,
+            "value": "No Biting/Nipping"
+        },
+        {
+            "key": 11,
+            "value": "Appropriate Play (Not too rough)"
+        },
+        {
+            "key": 12,
+            "value": "Staying Alone (Preventing separation anxiety)"
+        },
+        {
+            "key": 13,
+            "value": "Quiet Command (Reducing excessive barking/vocalization)"
+        },
+        {
+            "key": 14,
+            "value": "Target Training (Using a target for guidance)"
+        },
+        {
+            "key": 15,
+            "value": "Clicker Training (Using a clicker as a positive reinforcement marker)"
+        },
+        {
+            "key": 16,
+            "value": "Trick Training (Optional, but good for mental stimulation)"
+        },
+        {
+            "key": 17,
+            "value": "Specific Problem Behavior Modification (Addressing issues like chewing, digging, etc.)"
+        },
+        {
+            "key": 18,
+            "value": "Introduction to Other Pets (if applicable)"
+        },
+        {
+            "key": 19,
+            "value": "Car Manners (Traveling calmly in a vehicle)"
+        },
+        {
+            "key": 20,
+            "value": "Boundary Training (Staying within designated areas)"
+        },
+        {
+            "key": 21,
+            "value": "Resource Guarding Prevention/Modification"
+        },
+        {
+            "key": 22,
+            "value": "Polite Greetings"
+        },
+        {
+            "key": 23,
+            "value": "Waiting at Doors/Thresholds"
+        },
+        {
+            "key": 24,
+            "value": "Settling on Command (Relaxing in a specific place)"
+        },
+        {
+            "key": 25,
+            "value": "Desensitization and Counter-Conditioning (for fears and anxieties)"
+        },
+        {
+            "key": 26,
+            "value": "Positive Reinforcement Techniques"
+        },
+        {
+            "key": 27,
+            "value": "Consistency and Patience"
+        },
+        {
+            "key": 28,
+            "value": "Understanding Body Language (of the pet and others)"
+        },
+        {
+            "key": 29,
+            "value": "Basic Commands in Different Environments"
+        },
+        {
+            "key": 30,
+            "value": "General Manners"
+        }
+    ]
+}

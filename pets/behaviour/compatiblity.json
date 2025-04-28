@@ -1,0 +1,153 @@
+{
+    "label": "Pet Compatibility Factors",
+    "objects": [
+        {
+            "key": 1,
+            "value": "Compatibility with Children (various age groups)"
+        },
+        {
+            "key": 2,
+            "value": "Compatibility with Other Dogs (same sex, opposite sex, size differences)"
+        },
+        {
+            "key": 3,
+            "value": "Compatibility with Cats"
+        },
+        {
+            "key": 4,
+            "value": "Compatibility with Small Animals (rabbits, hamsters, etc.)"
+        },
+        {
+            "key": 5,
+            "value": "Compatibility with Birds"
+        },
+        {
+            "key": 6,
+            "value": "Compatibility with Reptiles/Amphibians"
+        },
+        {
+            "key": 7,
+            "value": "Compatibility with Existing Pets (personality matching)"
+        },
+        {
+            "key": 8,
+            "value": "Compatibility with Owner's Lifestyle (activity level, time commitment)"
+        },
+        {
+            "key": 9,
+            "value": "Compatibility with Owner's Experience Level (beginner vs. experienced pet owner)"
+        },
+        {
+            "key": 10,
+            "value": "Compatibility with Owner's Living Situation (space, housing rules)"
+        },
+        {
+            "key": 11,
+            "value": "Compatibility with Owner's Financial Resources (food, vet care, grooming)"
+        },
+        {
+            "key": 12,
+            "value": "Breed-Specific Compatibility Considerations"
+        },
+        {
+            "key": 13,
+            "value": "Temperament Matching with Household Members"
+        },
+        {
+            "key": 14,
+            "value": "Energy Level Matching with Household"
+        },
+        {
+            "key": 15,
+            "value": "Noise Level Compatibility with Household"
+        },
+        {
+            "key": 16,
+            "value": "Exercise Needs Compatibility with Owner's Ability"
+        },
+        {
+            "key": 17,
+            "value": "Grooming Needs Compatibility with Owner's Willingness"
+        },
+        {
+            "key": 18,
+            "value": "Allergy Considerations of Household Members"
+        },
+        {
+            "key": 19,
+            "value": "Age Compatibility (puppy/kitten with young children, senior pet with calm household)"
+        },
+        {
+            "key": 20,
+            "value": "Health Considerations of Existing Pets"
+        },
+        {
+            "key": 21,
+            "value": "Territory Considerations"
+        },
+        {
+            "key": 22,
+            "value": "Resource Guarding Potential"
+        },
+        {
+            "key": 23,
+            "value": "Prey Drive Considerations"
+        },
+        {
+            "key": 24,
+            "value": "Socialization History"
+        },
+        {
+            "key": 25,
+            "value": "Training Needs and Owner's Ability to Provide"
+        },
+        {
+            "key": 26,
+            "value": "Handling Needs and Owner's Comfort Level"
+        },
+        {
+            "key": 27,
+            "value": "Travel Compatibility"
+        },
+        {
+            "key": 28,
+            "value": "Alone Time Tolerance"
+        },
+        {
+            "key": 29,
+            "value": "Sensitivity Levels"
+        },
+        {
+            "key": 30,
+            "value": "Vocalization Levels"
+        },
+        {
+            "key": 31,
+            "value": "Play Style Compatibility"
+        },
+        {
+            "key": 32,
+            "value": "Independence Levels"
+        },
+        {
+            "key": 33,
+            "value": "Need for Attention and Interaction"
+        },
+        {
+            "key": 34,
+            "value": "Adaptability to Change"
+        },
+        {
+            "key": 35,
+            "value": "Predictability of Temperament"
+        },
+        {
+            "key": 36,
+            "value": "Potential for Dominance or Submissiveness"
+        },
+        {
+            "key": 37,
+            "value": "Understanding Species-Specific Social Needs"
+        }
+    ]
+}
